@@ -14,3 +14,4 @@ if figura == 'C':
         mitortuga.forward(50)
         mitortuga.left(90)
         
+turtle.mainloop()
